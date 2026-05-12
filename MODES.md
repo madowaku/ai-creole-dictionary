@@ -43,3 +43,11 @@ Modes are reusable aliases for work style. Let modes evolve when repeated patter
 - avoid scope creep
 - keep weird worldbuilding if useful
 - output next concrete steps
+
+## MODE: terse_handoff
+
+- keep the AI Creole structure
+- compress wording hard
+- prefer fragments over filler
+- preserve constraints and risk notes
+- use when short handoff matters more than prose
