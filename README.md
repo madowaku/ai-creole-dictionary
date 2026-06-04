@@ -9,8 +9,8 @@ AI Creole is a compact shared work language for human-to-AI and AI-to-AI handoff
 - `AI_CREOLE_CORE.md`: stable core tags
 - `MODES.md`: reusable work-style aliases
 - `AGENT_ROLES.md`: common target agent roles
-- `TEMPLATES/`: prompt templates
-- `PROJECTS/`: project-local dialect notes
+- `TEMPLATES/`: prompt templates for AI handoff
+- `PROJECTS/`: short project-local dialect examples
 - `GOOGLE_DRIVE_SUMMARY_DRAFT.md`: ChatGPT-readable entrance draft
 
 ## Operating Model
