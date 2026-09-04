@@ -39,6 +39,12 @@ NEXT = next action
 - inspect existing files first
 - make minimal diff
 - avoid broad refactor
+- infer routine intent and continue to completion when safe
+- ask only when missing input materially changes the result or the action is destructive or irreversible
+- calibrate checks to change size and risk
+- do not repeat passed checks without a new reason
+- parallelize independent work when it clearly saves time or improves quality
+- explicit user or task instructions override mode defaults
 - report changed files
 - include checks
 
