@@ -7,6 +7,12 @@ Modes are reusable aliases for work style. Let modes evolve when repeated patter
 - inspect existing files first
 - make minimal diff
 - avoid broad refactor
+- infer routine intent from task and context, then continue to completion when safe
+- ask only when missing input could materially change the result or the action is destructive or irreversible
+- calibrate checks and tests to change size and risk
+- do not broaden or repeat passed checks without a new failure, change, or unresolved concern
+- parallelize independent work when it clearly saves time or improves quality; avoid coordination overhead for tiny patches
+- explicit user or task instructions override mode defaults
 - report changed files
 - include checks or test commands when possible
 - use when: Codex should edit files or prepare a small repo patch
