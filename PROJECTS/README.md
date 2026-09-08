@@ -10,4 +10,7 @@ Do not force every project into one global glossary.
 
 ## Shared references
 
-- `3d/3D_PROMPT_PATTERNS.md`: reusable 3D production patterns, templates, and candidate dialect terms while keeping the universal Core unchanged.
+- `3d/README.md`: index for reusable 3D dialects and their composition rules
+- `3d/3D_PROMPT_PATTERNS.md`: cross-tool 3D production patterns and templates
+- `3d/tripo.md`: Tripo generation-to-export dialect
+- `3d/godot.md`: Godot import-to-playable dialect
