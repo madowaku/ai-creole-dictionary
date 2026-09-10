@@ -11,6 +11,7 @@ AI Creole is a compact shared work language for human-to-AI and AI-to-AI handoff
 - `AGENT_ROLES.md`: common target agent roles
 - `TEMPLATES/`: prompt templates for AI handoff, including `AGENTS.md` as the madowaku standard execution adapter
 - `PROJECTS/`: short project-local dialect examples
+- `PROJECTS/3d/`: reusable 3D production patterns plus Tripo, Blender, Godot, and Unity dialects mapped onto the stable Core
 - `GOOGLE_DRIVE_SUMMARY_DRAFT.md`: ChatGPT-readable entrance draft
 
 ## Operating Model
