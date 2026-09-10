@@ -553,7 +553,7 @@ Primary references:
 - https://www.tripo3d.ai/3d-prompts/models/gpt-6-astra
 - https://www.tripo3d.ai/ja/3d-prompts/three-themed-kart-games-from-one-greybox-2095580402505400369
 
-Future split candidates:
+Current dialect split:
 
 ```text
 PROJECTS/3d/
@@ -561,6 +561,6 @@ PROJECTS/3d/
 ├─ blender.md
 ├─ unity.md
 ├─ godot.md
-├─ threejs.md
-└─ tripo.md
+├─ tripo.md
+└─ threejs.md   # planned
 ```
